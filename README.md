@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @c3fr4
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Symfony/PHP
+- 🌱 I’m currently learning MongoDB
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me christian.frantzen@plusnet.de
 
